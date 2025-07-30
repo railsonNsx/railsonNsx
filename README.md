@@ -1,40 +1,59 @@
-👋 Olá, eu sou o Railson de Araujo Ferreira!
-🎓 Formação: (adicione aqui sua formação, por exemplo: "Estudante de Engenharia de Software na Universidade XYZ")
-💻 Tecnologias favoritas: (liste as linguagens, frameworks ou ferramentas que você usa, como por exemplo: Python, JavaScript, React, Node.js)
-📚 Aprendendo atualmente: (algo que você esteja estudando agora, como: TypeScript, Docker, DevOps)
-🌱 Interesses: Desenvolvimento web, backend, inteligência artificial, open source...
-📫 Contato: [seu e-mail ou LinkedIn]
-⚡ Curiosidade: (uma frase divertida ou interessante sobre você!)
+# 👋 Olá, eu sou o Railson!
 
-🛠️ Tecnologias e Ferramentas
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no **Instituto Federal do Piauí (IFPI)**  
+💻 Apaixonado por tecnologia, desenvolvimento web e resolver problemas com código  
+🚀 Em constante evolução — construindo projetos reais para aprender de verdade!
 
+---
 
+## 🌱 Atualmente aprendendo
 
+- TypeScript
+- HTML5
+- CSS3
+- E desenvolvendo um projeto de **Quiz interativo** 🧠
 
+---
 
-<!-- Adicione ou remova badges conforme suas tecnologias -->
-📈 GitHub Stats
+## 🛠️ Tecnologias que estou usando
 
-Se quiser, posso personalizar isso para você. Basta me passar:
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</div>
 
-Suas tecnologias principais
+---
 
-O que está estudando agora
+## 🧪 Projeto em destaque
 
-Um link para LinkedIn ou portfólio (se tiver)
+📌 **Quiz Interativo** — um projeto prático para aplicar meus conhecimentos em HTML, CSS e TypeScript, com foco em:
 
-Uma curiosidade ou frase legal
+- Interface amigável 🎨  
+- Lógica de perguntas e respostas 🤔  
+- Marcação de pontos 🧮  
+- Aprendizado na prática 🛠️  
 
-Seu nome de usuário do GitHub
+> Em breve disponível no GitHub com link de demonstração!
 
-Posso montar tudo certinho para você copiar e colar. Deseja isso?
+---
 
+## 📈 GitHub Stats
 
+![Railson GitHub Stats](https://github-readme-stats.vercel.app/api?username=**SEU_USUARIO_AQUI**&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**SEU_USUARIO_AQUI**&layout=compact&theme=radical)
 
+---
 
+## 📬 Vamos conversar?
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/SEU_USUARIO)  
+- 📧 **Email:** seuemail@exemplo.com  
+- 🚀 Em breve: portfólio com projetos e estudos!
 
+---
 
-
-
-Perguntar ao ChatGPT
+> “Não espere por oportunidades extraordinárias. Agarre ocasiões comuns e as torne grandes.”  
+> — Railson, em busca da evolução constante ⚡
